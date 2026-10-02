@@ -9,6 +9,8 @@
 ## Links
 
 - (Visionary) https://github.com/Visionary-Laboratory/visionary
+- (Flux 2) https://huggingface.co/black-forest-labs
+- (HunyuanWorld) https://huggingface.co/tencent/HunyuanWorld-Mirror
 
 ## Quickstart
 

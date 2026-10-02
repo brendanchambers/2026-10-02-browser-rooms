@@ -45,7 +45,7 @@ def main():
     """Generate a simple cubic room floorplan."""
     from pathlib import Path
 
-    prompt = "Semantic map for a plain cubic room with dimensions 10ft x 10ft x 10ft and a single arched doorway centered on one wall."
+    prompt = "Render a plain cubic room with a single arched doorway centered on one wall."
     output_path = "data/2D/latest.png"
 
     image_bytes = generate_floorplan.remote(prompt, output_path)
