@@ -13,12 +13,16 @@ Engines
 Models  
 - (Flux 2) https://huggingface.co/black-forest-labs  
 - (HunyuanWorld) https://huggingface.co/tencent/HunyuanWorld-Mirror  
+Paper
+- https://github.com/Anttwo/SuGaR  
+- https://arxiv.org/abs/2410.12262  
 Datasets  
 - https://huggingface.co/datasets/spatialverse/InteriorGS  
 - Nithins03/us-architectural-floorplan-sft  
 - https://huggingface.co/datasets/sylvainHellin/ifc-bench  
 Emerging alternatives to collision meshes  
 - Splat-CBF: Safe Next-Best-View Control in 3D Gaussian-Splat Maps https://arxiv.org/abs/2609.23100
+
 
 ### Generate (experimental)
 `uv run --with modal modal run explore/floorplan.py`
