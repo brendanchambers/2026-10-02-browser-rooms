@@ -24,4 +24,8 @@ Initial Plan: Try the Flux.2 lightweight models.
 Goal: Generate an interior space.
 Initial Plan: Use an existing scene graph to test scene_graph -> 3D
 
+### 2026-10-06
+
+interiorGS dataset
+
 

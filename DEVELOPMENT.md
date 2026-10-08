@@ -2,7 +2,7 @@
 
 ## Python Environment & Tooling
 - Use `uv` for environment management
-- Launch programs with `uv run python ...`
+- Launch python programs with `uv run python ...`
 
 ## Design Philosophy
 - Concise, readable, opinionated design
